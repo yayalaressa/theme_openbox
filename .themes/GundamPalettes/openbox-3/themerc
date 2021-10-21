@@ -1,0 +1,119 @@
+#
+# Theme Gundam Palettes OpenBox write by Yaya Laressa
+#
+
+# Menu
+menu.border.width: 3
+menu.border.color: #e7e8e8
+menu.overlap.x: 0
+menu.overlap.y: 0
+menu.title.bg: flat solid
+menu.title.bg.color: #2f343f
+menu.title.text.color: #e7e8e8
+menu.title.text.justify: center
+menu.items.bg: flat solid
+menu.items.bg.color: #e7e8e8
+menu.items.text.color: #2f343f
+menu.items.active.bg: flat solid
+menu.items.active.bg.color: #5294e2
+menu.items.active.text.color: #f6f7f1
+menu.items.disabled.text.color: #4d5066
+menu.items.justify: left
+menu.separator.padding.height: 3
+menu.separator.color: #e7e8e8
+
+# Titlebar
+window.*.title.bg: flat solid
+window.*.label.bg: parentrelative
+window.active.title.bg.color: #2f343f
+window.active.label.text.color: #e7e8e8
+window.inactive.title.bg.color: #e7e8e8
+window.inactive.label.text.color: #2f343f
+window.label.text.justify: center
+
+# Titlebar buttons
+window.*.button.*.bg: parentrelative
+window.*.button.*.pressed.bg: flat solid
+
+# Borders
+border.width: 0
+padding.width: 10
+padding.height: 10
+window.client.padding.width: 3
+window.client.padding.height: 3
+window.handle.width: 0
+window.active.border.color: #2f343f
+window.active.title.separator.color: #2f343f
+window.active.client.color: #2f343f
+window.active.handle.bg: flat solid
+window.active.handle.bg.color: #2f343f
+window.active.grip.bg: flat solid
+window.active.grip.bg.color: #2f343f
+window.inactive.grip.bg: flat solid
+window.inactive.grip.bg.color: #e7e8e8
+window.inactive.border.color: #f6f7f1
+window.inactive.title.separator.color: #f6f7f1
+window.inactive.handle.bg: flat solid
+window.inactive.handle.bg.color: #e7e8e8
+window.inactive.client.color: #e7e8e8
+window.active.button.unpressed.bg: parentrelative
+window.active.button.pressed.bg: parentrelative
+window.active.button.hover.bg: parentrelative
+window.active.button.disabled.bg: parentrelative
+window.active.button.toggled.unpressed.bg: parentrelative
+window.active.button.toggled.pressed.bg: parentrelative
+window.active.button.toggled.hover.bg: parentrelative
+window.inactive.button.unpressed.bg: parentrelative
+window.inactive.button.pressed.bg: parentrelative
+window.inactive.button.hover.bg: parentrelative
+window.inactive.button.disabled.bg: parentrelative
+window.inactive.button.toggled.unpressed.bg: parentrelative
+window.inactive.button.toggled.pressed.bg: parentrelative
+window.inactive.button.toggled.hover.bg: parentrelative
+
+# OSD
+osd.border.width: 1
+osd.border.color: #f1f2ec
+osd.label.text.color: #5c616c
+osd.bg: flat solid
+osd.bg.color: #f1f2ec
+osd.label.bg: flat solid
+osd.label.bg.color: #f1f2ec
+osd.hilight.bg: flat solid
+osd.hilight.bg.color: #b8b7b8
+osd.unhilight.bg: flat solid
+osd.unhilight.bg.color: #e0ddde
+
+
+# BUTTONS
+window.active.button.disabled.image.color: #2f343f
+window.active.button.*.hover.image.color: #d5d9e0
+window.active.button.toggled.image.color: #ffffff
+
+window.inactive.button.disabled.image.color: #5a5b6d
+window.inactive.button.*.hover.image.color: #d5d9e0
+window.inactive.button.toggled.image.color: #5a5b6d
+
+window.active.button.iconify.unpressed.image.color: #5294e2
+window.active.button.max*.unpressed.image.color: #fff867
+window.active.button.close.unpressed.image.color: #fb2f38
+window.active.button.shade*.unpressed.image.color: #ffffff
+window.active.button.desk.unpressed.image.color: #ffffff
+
+window.active.button.iconify.pressed.image.color: #5294e2
+window.active.button.max*.pressed.image.color: #fff867
+window.active.button.close.pressed.image.color: #fb2f38
+window.active.button.shade*.pressed.image.color: #ffffff
+window.active.button.desk.pressed.image.color: #ffffff
+
+window.inactive.button.iconify.unpressed.image.color: #5a5b6d
+window.inactive.button.max*.unpressed.image.color: #5a5b6d
+window.inactive.button.close.unpressed.image.color: #5a5b6d
+window.inactive.button.shade*.unpressed.image.color: #5a5b6d
+window.inactive.button.desk.unpressed.image.color: #5a5b6d
+
+window.inactive.button.iconify.pressed.image.color: #5294e2
+window.inactive.button.max*.pressed.image.color: #fff867
+window.inactive.button.close.pressed.image.color: #fb2f38
+window.inactive.button.shade*.pressed.image.color: #ffffff
+window.inactive.button.desk.pressed.image.color: #ffffff
